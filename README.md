@@ -25,8 +25,8 @@
 
   * Communication protocols such as (OPC UA, Modbus/TCP, relay hardwired I/O)
 
-  *  INCOSE + IREB Resources
+  * INCOSE + IREB + Google Scholar + Springer + ScienceDirect + Wiley 
 
-B2 English + German Level with respect to CEFR
+  * B2 English + German Level with respect to CEFR
 
-Life-long learner
+  * Life-long learner
