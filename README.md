@@ -29,6 +29,6 @@
 
   * INCOSE + IREB + Google Scholar + Springer + ScienceDirect + Wiley + IEEE Xplore
 
-  * B2 English + German Level with respect to CEFR
+  * B2 English (IELTS Academic) + German (TELC) Level with respect to CEFR
 
   * Life-long learner
